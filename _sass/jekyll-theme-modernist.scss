@@ -8,7 +8,7 @@ html {
 body {
   padding:50px 0;
   margin:0;
-  font:14px/1.5 Courier, Lato;
+  font:14px/1.5 Courier;
   color:#555;
   font-weight:300;
   background:inline-image('checker.png') fixed;
@@ -216,7 +216,7 @@ img.center {
 }
 
 code, pre {
-  font-family: Mono, Lucida Console, Terminal;
+  font-family: Mono;
   color:#333;
   font-size:14px;
   overflow-x:auto;
