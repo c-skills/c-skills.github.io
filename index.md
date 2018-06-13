@@ -5,6 +5,8 @@ title: c-skills
 
 ![kraftwerk](images/kraftwerk.jpg)
 
-        A blog dedicated to software and network trickery.
+```cpp
+volatile const char *what = "A blog dedicated to software and network trickery.";
+```
 
 
