@@ -28,6 +28,7 @@ menu:
     about: "/"
     posts: "/posts"
     papers: "/papers"
+    imprint: "/imprint"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
